@@ -15,6 +15,7 @@ I build internal systems, integrations and backend solutions with ASP.NET Core a
 
 ## DebugProbe — .NET debugging and diagnostics tools.
 
+**🚀 Live demo now available:** [debugprobe.dev](https://debugprobe.dev/)
 
 ⭐ [DebugProbe.AspNetCore Repository](https://github.com/georgidhristov/DebugProbe.AspNetCore) — Star the repository if you find the project useful.
 
